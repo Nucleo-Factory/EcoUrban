@@ -3,3 +3,4 @@
 /.angular
 .DS_Store
 src/assets/media/*.MOV
+src/assets/media/*.tif
